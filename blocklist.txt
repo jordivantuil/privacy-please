@@ -2,6 +2,10 @@
 # Curated from sources online.
 # Last updated: 9 december 2019
 
+# Personal use
+||trustpilot.com^
+||www.trustpilot.com^
+
 # Tiktok related
 ||api-h2.tiktokv.com^
 ||api21-h2.tiktokv.com^
